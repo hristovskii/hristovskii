@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-🔭 I’m currently working on eestec.mk & eestec.net<br>🤝 I’m tutoring C & C++ ( helping students with structural programming)<br>🌱 I’m currently learning Java, JavaScript/TypeScript.<br>💬 Ask me about programming, technology, martial arts, books.<br>⚡ Fun fact - I'm lazy, but smart.<br>🧑‍💻IT coordinator at EESTEC LC Skopje (student organization)<br><br>I'm Funny. (I make people laugh for free )
+🔭 I’m currently working on eestec.mk & eestec.net<br>⚡ Fun fact - I'm lazy, but smart.<br>🧑‍💻IT coordinator at EESTEC LC Skopje (student organization)<br><br>I'm Funny. (I make people laugh for free )
 
 
   
