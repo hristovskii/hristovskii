@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-🔭 I’m currently working on eestec.mk & eestec.net<br>⚡ Fun fact - I'm lazy, but smart.<br>🧑‍💻IT coordinator at EESTEC LC Skopje (student organization)<br><br>I'm Funny. (I make people laugh for free )
+🔭 I’m currently working on eestec.mk & eestec.net<br>⚡ Fun fact - I'm lazy, but smart.<br>I'm Funny. (I make people laugh for free )
 
 
   
