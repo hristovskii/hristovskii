@@ -8,8 +8,6 @@
 ![](./profile-summary-card-output/tokyonight/2-most-commit-language.svg)
 ![](./profile-summary-card-output/tokyonight/3-stats.svg)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hristovskii&theme=omni&hide_border=false)
-
 <!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
