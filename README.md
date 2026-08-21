@@ -1,8 +1,14 @@
 <div align="center">
 
+![Profile views](https://komarev.com/ghpvc/?username=hristovskii&label=Profile%20views&color=bb9af7&style=flat)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hristovskii&theme=omni&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hristovskii&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](./profile-summary-card-output/tokyonight/0-profile-details.svg)
+
+![](./profile-summary-card-output/tokyonight/1-repos-per-language.svg)
+![](./profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+![](./profile-summary-card-output/tokyonight/3-stats.svg)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=hristovskii&theme=omni&hide_border=false)
 
 <!--
 ### ✍️ Random Dev Quote
@@ -10,4 +16,5 @@
 -->
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Profile views counter: https://github.com/antonkomarev/github-profile-views-counter -->
+<!-- Cards generated daily by https://github.com/vn7n24fzkq/github-profile-summary-cards -->
